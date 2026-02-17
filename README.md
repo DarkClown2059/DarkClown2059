@@ -43,14 +43,11 @@ Git · GitHub · Postman
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/sahil-narula-a53183293">
+  <a href="https://www.linkedin.com/in/sahil-narula2207">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/">
+  <a href="https://www.instagram.com/sahil.narula05/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://github.com/DarkClown2059">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
