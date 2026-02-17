@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&center=true&vCenter=true&width=650&colors=FFFFFF,F5C542,39FF14&lines=Hello+I+am+Sahil;Hello+I+am+Sahil;Hello+I+am+Sahil" />
   </a>
 </p>
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif(https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif)" width="100%" />
 ## 👨‍💻 About Me
 Computer Science undergraduate building **data-driven systems** with a clear direction toward  
 **finance, analytics, and scalable fintech products**.
@@ -51,8 +51,6 @@ Git · GitHub · Postman
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
----
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
 </p>
