@@ -2,7 +2,7 @@
 <!-- Animated Hello -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Sahil+Narula;Tech+%C3%97+Finance+Builder;Code.+Data.+Capital." alt="Typing SVG" />
+    <img src=["https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Sahil+Narula;Tech+%C3%97+Finance+Builder;Code.+Data.+Capital."](https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzEzNTcxMTAsIm5iZiI6MTc3MTM1NjgxMCwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjE3VDE5MzMzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY1OGZmMTMxNjhmOTcyNDQyZTIwNDhkMzQ5NTQyYWIyMjRjOGVmYTM2Y2FmM2M4YWE5MGU2ZGYxMzUzOGM4OWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.sRwPLvATmiHymGmX2BwDbzQENWkLB_8u13JIdpROFJs) alt="Typing SVG" />
   </a>
 </p>
 
