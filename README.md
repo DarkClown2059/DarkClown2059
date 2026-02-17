@@ -1,7 +1,4 @@
-<!-- TOP GIF -->
-<p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="600" />
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="100%" />
 
 <!-- Animated Hello -->
 <p align="center">
@@ -44,38 +41,6 @@ Git · GitHub · Postman
 
 ---
 
-## 📌 Selected Projects
-### 💸 Expense Tracker Application
-Firebase-backed expense tracking system  
-- Authentication & real-time updates  
-- Expense categorization & analytics  
-
-### 🧮 Age Calculator (CS50 Final Project)
-Flask-based full-stack application  
-- Backend routing & form handling  
-- Zodiac logic + scheduled email feature  
-
-### 🗂️ FIR Management System
-Streamlit workflow automation  
-- Complaint & case tracking  
-- Process efficiency enhancements  
-
----
-
-## 🧑‍💼 Leadership & Experience
-- **Lead – OpenLab (Zenith E-Cell, GGSIPU)**  
-- **Nobel Internship – Facilitator**  
-- **IEEE-GGSIPU & USICT Alumni Committee**
-
----
-
-## 📜 Certifications
-- CS50: Introduction to Computer Science – Harvard  
-- Tata Data Visualization  
-- Postman API Fundamentals  
-
----
-
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/sahil-narula-a53183293" target="_blank">
@@ -97,15 +62,6 @@ Streamlit workflow automation
 
 ---
 
-## 📈 Direction
-I’m deliberately combining:
-- Software engineering discipline  
-- Financial thinking  
-- Data-first decision making  
-
-**Target:** Fintech & finance analytics roles first, then products where  
-**technology compounds capital**.
-<!-- Bottom Animation -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
 </p>
