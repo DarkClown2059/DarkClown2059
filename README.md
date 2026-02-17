@@ -1,25 +1,27 @@
-<!-- Animated Hello Header -->
+
+<!-- Animated Hello -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0AFFEF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Sahil+Narula;Tech+%C3%97+Finance+Builder;Code.+Data.+Capital." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Sahil+Narula;Tech+%C3%97+Finance+Builder;Code.+Data.+Capital." alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-I’m a **Computer Science undergraduate** building **data-driven systems** with a long-term focus on **finance, analytics, and scalable products**.
+Computer Science undergraduate building **data-driven systems** with a clear direction toward  
+**finance, analytics, and scalable fintech products**.
 
-I don’t chase random projects.  
-I build **systems that understand money, decisions, and outcomes**.
+I’m not here to collect random projects.  
+I build **systems that model money, decisions, and outcomes**.
 
 ---
 
-## 🎯 What I’m Focused On
+## 🎯 Current Focus
 - Backend & full-stack development  
 - Financial data handling & visualization  
 - Fintech-style applications  
-- Preparing for **finance + analytics roles**
+- Finance + analytics career preparation  
 
 ---
 
@@ -33,7 +35,7 @@ Flask · React · Streamlit · Firebase · MySQL
 **Concepts**  
 REST APIs · Backend Architecture · Data Visualization  
 
-**Dev Tools**  
+**Developer Tools**  
 Git · GitHub · Postman  
 
 ---
@@ -43,15 +45,19 @@ Git · GitHub · Postman
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://instagram.com/" target="_blank">
+  <a href="https://www.instagram.com/sahil.narula05/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://twitter.com/" target="_blank">
+  <a href=https://x.com/SahilNarula205" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/DarkClown2059" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="600" />
 </p>
