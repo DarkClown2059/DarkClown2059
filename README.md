@@ -3,8 +3,13 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&center=true&vCenter=true&width=650&colors=FFFFFF,F5C542,39FF14&lines=Hello+I+am+Sahil;Hello+I+am+Sahil;Hello+I+am+Sahil" />
   </a>
 </p>
-<img src="https://user-images.githubusercontent.com/...gif(https://user-images.githubusercontent.com/...gif)" width="100%" />
-## 👨‍💻 About Me
+<img 
+  src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" 
+  width="100%" 
+  style="max-height:120px; object-fit:cover;"
+/>
+
+# 👨‍💻 About Me
 Computer Science undergraduate building **data-driven systems** with a clear direction toward  
 **finance, analytics, and scalable fintech products**.
 
