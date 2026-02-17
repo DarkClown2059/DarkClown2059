@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=380&colors=FFFFFF,F5C542,39FF14&lines=Hello+I+am+Sahil;Hello+I+am+Sahil;Hello+I+am+Sahil" />
-  </a>
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="120" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
