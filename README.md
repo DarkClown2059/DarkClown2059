@@ -10,46 +10,66 @@
 />
 
 # 👨‍💻 About Me
-Computer Science undergraduate building **data-driven systems** with a clear direction toward  
-**finance, analytics, and scalable fintech products**.
+Computer Science undergraduate focused on **finance, analytics, and backend systems**.
 
-I don’t chase random projects.  
-I build **systems that model money, decisions, and outcomes**.
-
----
-
-## 🎯 Current Focus
-- Backend & full-stack development  
-- Financial data handling & visualization  
-- Products that mirror real-world money workflows  
-- Finance + analytics career preparation  
+I build systems that answer one question:  
+**Where is money made, lost, or optimized?**
 
 ---
 
-## 🧠 Tech Stack
-**Languages**  
-Python · JavaScript · SQL · HTML · CSS  
+## What I Do
 
-**Frameworks & Tools**  
-Flask · React · Streamlit · Firebase · MySQL  
-
-**Concepts**  
-REST APIs · Backend Architecture · Data Visualization  
-
-**Dev Tools**  
-Git · GitHub · Postman  
+- Break down business data into **clear profit & loss insights**
+- Build **decision-focused dashboards**, not just visual reports
+- Work with **SQL, Python, Excel, Power BI** on real-world datasets
 
 ---
 
-## 🌐 Connect With Me
+## Current Focus
+
+- Backend systems (Flask, APIs)
+- Financial data analysis & modeling
+- Business problem-solving using data
+- Preparing for **finance + data roles**
+
+---
+
+## Tech Stack
+
+**Languages:** Python, SQL, JavaScript  
+**Tools:** Power BI, Excel, MySQL, Firebase  
+**Frameworks:** Flask, React  
+**Concepts:** Data Analysis, Backend Systems, Business Thinking  
+
+---
+
+## Current Focus
+
+- Backend systems (Flask, APIs)
+- Financial data analysis & modeling
+- Business problem-solving using data
+- Preparing for **finance + data roles**
+
+---
+
+## Tech Stack
+
+**Languages:** Python, SQL, JavaScript  
+**Tools:** Power BI, Excel, MySQL, Firebase  
+**Frameworks:** Flask, React  
+**Concepts:** Data Analysis, Backend Systems, Business Thinking  
+
+---
+
+## Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/sahil-narula2207">
+  <a href="https://www.linkedin.com/in/sahil-narula7/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/sahil.narula05/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://github.com/DarkClown2059">
+  <a href="https://github.com/sahil-narula7">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
