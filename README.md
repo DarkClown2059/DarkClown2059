@@ -9,7 +9,7 @@
   style="max-height:120px; object-fit:cover;"
 />
 
-# 👨‍💻 About Me
+# About Me
 Computer Science undergraduate focused on **finance, analytics, and backend systems**.
 
 I build systems that answer one question:  
